@@ -11,4 +11,3 @@ tagline:
   {% endfor %}
 </ul>
 
-<div style="height: 1000px"></div>
